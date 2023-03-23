@@ -43,6 +43,6 @@ print("First - second = ",First.difference(second))
 print("---------")
 
 #Symmatric Difference in set
-print("Symmatric = ",First.symmetric_difference(second))
+print("Symmatric difference = ",First.symmetric_difference(second))
 print("---------")
 
